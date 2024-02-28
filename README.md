@@ -13,7 +13,8 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
 
 ## Projetos Destacados
 - [Dashboard de Análise de Desempenho Empresarial:](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710) Este dashboard fornece uma visão abrangente do desempenho empresarial, destacando os produtos mais vendidos, o progresso em relação às metas e uma análise da Demonstração do Resultado do Exercício (DRE).
-- [Previsão de Churn de Clientes:](link_para_o_projeto) Utilizando técnicas de machine learning para prever quais clientes têm maior probabilidade de cancelar seus serviços, permitindo ações proativas de retenção.
+
+- [Dashboard de Gestão Financeira para Múltiplos Clientes:](https://app.powerbi.com/reportEmbed?reportId=cd392d7a-592d-4e1d-87b5-0c520a66fc3a&autoAuth=true&ctid=73e40a41-3408-4bbd-92ba-bbaaa3ccee8c) Dashboard de gestão financeira é uma ferramenta poderosa projetada para simplificar e otimizar a gestão financeira de mais de 60 clientes que antes faziam tudo no papel.
 
 <div> 
   <a href="https://instagram.com/georgehenriquec_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
