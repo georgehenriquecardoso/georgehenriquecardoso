@@ -22,7 +22,4 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
   
 </div>
 
-## Contato
-Se você está interessado em colaborar em projetos, discutir ideias ou apenas trocar conhecimentos, não hesite em entrar em contato comigo!
-- Email: george@ichamou.tech
-- LinkedIn: (https://www.linkedin.com/in/georgehenriquecardoso)
+## nSe você está interessado em colaborar em projetos, discutir ideias ou apenas trocar conhecimentos, não hesite em entrar em contato comigo!
