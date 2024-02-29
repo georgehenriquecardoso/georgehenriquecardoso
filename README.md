@@ -1,8 +1,6 @@
 ## George Henrique
 Analista de Dados Sênior
 
-### Habilidades
-
 **Hard Skills**
 - **Linguagens de Programação:** Python, SQL, VBA.
 - **Manipulação de Dados:** Coleta, Limpeza, Transformação, Processamento
