@@ -1,5 +1,5 @@
-## George Henrique
-Analista de Dados Sênior
+## Olá! 👋
+Meu nome é George Henrique. Sou freelancer como Analista de Dados desde 2020.
 
 **Hard Skills**
 - **Linguagens de Programação:** Python, SQL, VBA.
