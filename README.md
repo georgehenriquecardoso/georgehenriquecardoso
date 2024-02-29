@@ -1,9 +1,9 @@
-Bem-vindo ao meu perfil do GitHub! 👋
+Olá, seja muito bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
 Eu sou um analista de dados apaixonado por transformar dados em insights acionáveis. Com uma sólida formação em estatística e programação, estou sempre buscando maneiras de extrair o máximo valor dos dados para tomar decisões informadas e impulsionar o sucesso dos projetos.
 
-## Habilidades
+## Minhas habilidades
 - 🔭 Análise exploratória de dados
 - 🧹 Limpeza e preparação de dados
 - 📊 Modelagem estatística
