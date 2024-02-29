@@ -41,23 +41,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Analista de Dados Pleno** \
 [**SC Johnson**](https://www.scjohnson.com/pt-br) • Contract \
 Linguagens & Tecnologias: `Python`, `VBA`, `SAP`, `EXCEL`, `PowerBI`\
-Projetos em destaque: [Logistica Reversa](https://www.scjohnson.com/pt-br), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+Projetos em destaque: [Logistica Reversa](https://www.scjohnson.com/pt-br)
 <br/>
 <br/>
 
