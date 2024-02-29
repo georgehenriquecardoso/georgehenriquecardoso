@@ -33,4 +33,4 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
   
 </div>
 
-## Se você está interessado em colaborar em projetos, discutir ideias ou apenas trocar conhecimentos, não hesite em entrar em contato comigo!
+## Se você está interessado em me contratar, colaborar em projetos, discutir ideias ou apenas trocar conhecimentos, não hesite em entrar em contato comigo!
