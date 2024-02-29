@@ -2,7 +2,7 @@
 
 Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar desafios analíticos complexos, estou sempre buscando maneiras de extrair o máximo valor dos dados para tomar decisões informadas e impulsionar o sucesso dos projetos.
 
-## Habilidade
+## Habilidades
 
 **Hard Skills**
 - **Linguagens de Programação:** Python, SQL, VBA.
@@ -23,6 +23,7 @@ Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar d
 - Ética e Integridade
 
 **DevOps**
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
