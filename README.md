@@ -1,6 +1,6 @@
-## Olá! 👋 Meu nome é **George**, seja muito bem-vindo!
+## George Henrique
 
-Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar desafios analíticos complexos, estou sempre buscando maneiras de extrair o máximo valor dos dados para tomar decisões informadas e impulsionar o sucesso dos projetos.
+Analista de Dados Sênior
 
 ## Habilidades
 
