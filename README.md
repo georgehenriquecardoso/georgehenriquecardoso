@@ -1,4 +1,4 @@
-Olá! 👋 Meu nome é [George]. 
+## Olá! 👋 Meu nome é **George**, seja muito bem-vindo!
 
 Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar desafios analíticos complexos, estou sempre buscando maneiras de extrair o máximo valor dos dados para tomar decisões informadas e impulsionar o sucesso dos projetos.
 
@@ -12,9 +12,7 @@ Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar d
 - **Conhecimento em Bancos de Dados:** SQL (Relacional), NoSQL (Em construção)
 - **Ferramentas e Frameworks de Análise de Dados:** Pandas, NumPy.
 
-##
-
-## Soft Skills
+ **Soft Skills**
 - Liderança
 - Pensamento Crítico e Resolução de Problemas
 - Comunicação Clara e Eficaz
@@ -24,8 +22,7 @@ Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar d
 - Adaptabilidade
 - Ética e Integridade
 
-## DevOps
-
+**DevOps**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
@@ -36,7 +33,7 @@ Sou apaixonado por transformar dados em insights acionáveis e adoro enfrentar d
 
 - [Dashboard de Gestão Financeira para Múltiplos Clientes:](https://app.powerbi.com/reportEmbed?reportId=cd392d7a-592d-4e1d-87b5-0c520a66fc3a&autoAuth=true&ctid=73e40a41-3408-4bbd-92ba-bbaaa3ccee8c) Dashboard de gestão financeira é uma ferramenta poderosa projetada para simplificar e otimizar a gestão financeira de mais de 60 clientes que antes faziam tudo no papel.
 
-### Experiência de trabalho
+## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
