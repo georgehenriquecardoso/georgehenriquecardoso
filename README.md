@@ -36,12 +36,12 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.ctfassets.net/isq5xwjfoz2m/QRvfCa7RvSpngRh4e9cH4/e12378cf6eda3227e495fa6b1e850490/SCJohnson.png?w=574&h=323&q=80&fm=avif"/>](https://www.scjohnson.com/pt-br)
 
 **Analista de Dados Pleno** \
 [**SC Johnson**](https://www.scjohnson.com/pt-br) • Contract \
 Linguagens & Tecnologias: `Python`, `VBA`, `SAP`, `EXCEL`, `PowerBI`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Projetos em destaque: [Logistica Reversa](https://www.scjohnson.com/pt-br), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
