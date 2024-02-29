@@ -17,10 +17,11 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
 - [Dashboard de Gestão Financeira para Múltiplos Clientes:](https://app.powerbi.com/reportEmbed?reportId=cd392d7a-592d-4e1d-87b5-0c520a66fc3a&autoAuth=true&ctid=73e40a41-3408-4bbd-92ba-bbaaa3ccee8c) Dashboard de gestão financeira é uma ferramenta poderosa projetada para simplificar e otimizar a gestão financeira de mais de 60 clientes que antes faziam tudo no papel.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Geo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
