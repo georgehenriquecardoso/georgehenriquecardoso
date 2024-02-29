@@ -45,7 +45,7 @@ Projetos em destaque: [Logistica Reversa](https://www.scjohnson.com/pt-br)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/georgehenriquecardoso) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Projetos Destacados
 - [Dashboard de Análise de Desempenho Empresarial:](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710) Este dashboard fornece uma visão abrangente do desempenho empresarial, destacando os produtos mais vendidos, o progresso em relação às metas e uma análise da Demonstração do Resultado do Exercício (DRE).
@@ -61,4 +61,3 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
   
 </div>
 
-## Se você está interessado em me contratar, colaborar em projetos, discutir ideias ou apenas trocar conhecimentos, não hesite em entrar em contato comigo!
