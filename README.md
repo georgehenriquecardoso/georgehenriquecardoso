@@ -31,6 +31,8 @@ Meu nome é George Henrique. Sou freelancer como Analista de Dados desde 2020.
 
 - [Dashboard de Gestão Financeira para Múltiplos Clientes:](https://app.powerbi.com/reportEmbed?reportId=cd392d7a-592d-4e1d-87b5-0c520a66fc3a&autoAuth=true&ctid=73e40a41-3408-4bbd-92ba-bbaaa3ccee8c) Dashboard de gestão financeira é uma ferramenta poderosa projetada para simplificar e otimizar a gestão financeira de mais de 60 clientes que antes faziam tudo no papel.
 
+##
+
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
