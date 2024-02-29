@@ -11,6 +11,24 @@ Eu sou um analista de dados apaixonado por transformar dados em insights acioná
 - 🐍 Programação em Python e SQL
 - 🤖 Machine Learning
 
+## Minhas Skills
+
+**Aplicações e dados**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Geo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Geo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 ## Projetos Destacados
 - [Dashboard de Análise de Desempenho Empresarial:](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710) Este dashboard fornece uma visão abrangente do desempenho empresarial, destacando os produtos mais vendidos, o progresso em relação às metas e uma análise da Demonstração do Resultado do Exercício (DRE).
 
